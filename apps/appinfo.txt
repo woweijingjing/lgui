@@ -1,0 +1,28 @@
+<tab>
+	<ID>1003</ID>
+	<type>Applications</type>
+	<name>应用</name>
+	<icon>tab_app.bmp</icon>
+	<path>Applications</path>
+</tab>
+<tab>
+	<ID>1002</ID>
+	<type>Games</type>
+	<name>游戏</name>
+	<icon>tab_game.bmp</icon>
+	<path>Games</path>
+</tab>
+<tab>
+	<ID>1001</ID>
+	<type>Settings</type>
+	<name>设置</name>
+	<icon>tab_setting.bmp</icon>
+	<path>Settings</path>
+</tab>
+<tab>
+	<ID>1000</ID>
+	<type>Document</type>
+	<name>文档</name>
+	<icon>tab_doc.bmp</icon>
+	<path>../MyDocuments</path>
+</tab>
